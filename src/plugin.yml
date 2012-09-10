@@ -1,0 +1,7 @@
+name: MobKill
+main: me.JayzaSapphire.MobKill
+author: JayzaSapphire
+version: 0.1
+commands:
+  mobkill:
+    description: Kill a mob.
